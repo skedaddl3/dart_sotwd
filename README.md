@@ -1,1 +1,1 @@
-A simple command-line application.
+Section 3: Staying on Target with Dart
